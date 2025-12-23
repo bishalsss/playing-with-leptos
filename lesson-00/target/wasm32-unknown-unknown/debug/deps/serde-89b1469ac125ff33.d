@@ -1,0 +1,14 @@
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/deps/serde-89b1469ac125ff33.d: /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/build/serde-eb27ad022d4abc8e/out/private.rs
+
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/deps/libserde-89b1469ac125ff33.rlib: /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/build/serde-eb27ad022d4abc8e/out/private.rs
+
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/deps/libserde-89b1469ac125ff33.rmeta: /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/build/serde-eb27ad022d4abc8e/out/private.rs
+
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/build/serde-eb27ad022d4abc8e/out/private.rs:
+
+# env-dep:OUT_DIR=/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/build/serde-eb27ad022d4abc8e/out

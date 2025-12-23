@@ -1,0 +1,11 @@
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/deps/erased-80059d03f9c3ca99.d: /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/lib.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_box.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_mut_ref.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_ref.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/../README.md
+
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/deps/liberased-80059d03f9c3ca99.rlib: /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/lib.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_box.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_mut_ref.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_ref.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/../README.md
+
+/home/bishals/playing-with-leptos/lesson-00/target/wasm32-unknown-unknown/debug/deps/liberased-80059d03f9c3ca99.rmeta: /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/lib.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_box.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_mut_ref.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_ref.rs /home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/../README.md
+
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/lib.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_box.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_mut_ref.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/erased_ref.rs:
+/home/bishals/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/erased-0.1.2/src/../README.md:
