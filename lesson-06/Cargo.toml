@@ -1,0 +1,10 @@
+[package]
+name = "expense-tracker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+leptos = { version = "0.8.15", features = ["csr"] }
+leptos_meta = "0.8.5"
+chrono = "0.4.42"
+uuid = { version = "1.5", features = ["v4", "js"] }
